@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\bin\Debug\net6.0\Srtingapp.exe
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\bin\Debug\net6.0\Srtingapp.deps.json
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\bin\Debug\net6.0\Srtingapp.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\bin\Debug\net6.0\Srtingapp.dll
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\bin\Debug\net6.0\Srtingapp.pdb
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.dll
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\refint\Srtingapp.dll
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.pdb
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\Srtingapp.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\7\Srtingapp\obj\Debug\net6.0\ref\Srtingapp.dll
