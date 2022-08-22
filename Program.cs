@@ -147,7 +147,7 @@ else
 {
     Console.WriteLine("Strings s1 and s2 are equal");
 }
-
+//big whitespace
 
 
 static string Sort(string s1)
@@ -215,3 +215,5 @@ static void Analyze()
 }
 
 Analyze();
+
+//checked
